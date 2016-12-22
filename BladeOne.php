@@ -1,11 +1,12 @@
 <?php
-
+      
 /**
+
  * BladeOne - A Blade Template implementation in a single file
  * Copyright (c) 2016 Jorge Patricio Castro Castillo MIT License. Don't delete this comment, its part of the license.
  * Part of this code is based in the work of Laravel PHP Components.
  *
- *
+ * FF
  */
 
 /**
