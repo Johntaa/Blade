@@ -16,7 +16,7 @@
  * @link https://github.com/EFTEC/BladeOne
  */
 
-namespace eftec\bladeone;
+namespace Johntaa\bladeone;
 
 use Exception;
 

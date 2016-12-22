@@ -6,7 +6,7 @@
  * Time: 12:37
  */
 
-namespace eftec\bladeone;
+namespace Johntaa\bladeone;
 
 
 trait BladeOneHtmlBootstrap

@@ -1,5 +1,5 @@
 <?php
-namespace eftec\bladeone;
+namespace Johntaa\bladeone;
 /**
  * trait BladeOneHtml
  * Copyright (c) 2016 Jorge Patricio Castro Castillo MIT License. Don't delete this comment, its part of the license.

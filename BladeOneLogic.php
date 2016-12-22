@@ -22,7 +22,7 @@
  * @author   Jorge Patricio Castro Castillo <jcastro arroba eftec dot cl>
  */
 
-namespace eftec\bladeone;
+namespace Johntaa\bladeone;
 
 trait BladeOneLogic
 {

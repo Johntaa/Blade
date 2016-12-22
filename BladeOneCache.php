@@ -1,7 +1,7 @@
 <?php
 
 
-namespace eftec\bladeone;
+namespace Johntaa\bladeone;
 
 /**
  * trait BladeOneCache
