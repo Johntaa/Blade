@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Johntaa\bladeone;
+namespace Blade;
 
 /**
  * trait BladeOneCache

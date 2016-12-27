@@ -1,10 +1,10 @@
 {
-  "name": "johntaa/bladeone",
+  "name": "johntaa/blade",
   "description": "The standalone version Blade Template Engine from Laravel in a single php file",
   "type": "library",
   "keywords": ["blade","template","view"],
   "homepage": "https://github.com/EFTEC/BladeOne",
-  "minimum-stability": "beta",
+  "minimum-stability": "stable",
   "license": "MIT",
   "authors": [
     {
@@ -15,13 +15,12 @@
     "php": ">=5.4"
   },
   "extra": {
-    "branch-alias": {
-       
+    "branch-alias": { 
     }
   },
   "autoload": {
       "psr-4": {
-        "Johntaa\\bladeone\\": "/"
+        "Blade\\": "src"
       }
   }
 }
