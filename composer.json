@@ -4,7 +4,7 @@
   "type": "library",
   "keywords": ["blade","template","view"],
   "homepage": "https://github.com/EFTEC/BladeOne",
-  "minimum-stability": "@dev",
+  "minimum-stability": "dev",
   "license": "MIT",
   "authors": [
     {
